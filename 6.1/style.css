@@ -1,0 +1,23 @@
+.axis-x path {
+	fill: none;
+}
+
+.axis-x .tick text {
+	font-size: 15px;
+	text-align: right;
+}
+
+g line {
+	stroke: white;
+}
+
+path{
+
+	stroke: white;
+}
+
+
+g .tick line {
+	stroke: white;
+}
+
